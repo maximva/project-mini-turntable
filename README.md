@@ -25,6 +25,12 @@ When that's done you can use the STL files and adjust them for your needs when b
 - 3D printer (i used a Original Prusa Mini with Galaxy Black PLA fillament)
 - 4 rubber or felt feet to stick to the underside of the box
 
+## Images
+
+![Mini Turntable](images/mini-turntable.jpg)
+![Inside Mini Turntable](images/inside-mini-turntable.jpg)
+
+
 ## Disclaimer
 
 This project is by no means finished.
