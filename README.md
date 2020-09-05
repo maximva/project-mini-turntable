@@ -34,3 +34,4 @@ Known unsolved issues:
 - The DC motor turns plenty fast but doesnt have the torque to easily turn heavier objects (possible solution: adding a gear assembly to lower the speed and up the torque of the motor).
 - The motor / motor wiring (could be the wiring from the usb power supply too, didn't have the necesary tools to test it properly) has a big influence on the data wires comming from the rotary encoder. When the cables are placed near to each other the arduino will interpret the interference as the rotary encoder being turned and the motor speed will adjust accordingly (possible solution: using shielded cables).
 - The revolving disk turns on a the shaft of the motor (in the center) so any object put off-center will woble (possible solution: put some small wheels on the perimiter of the disk).
+- The 3D printed box ended up slightly warped so it's 100% level (possible solution: adding some structural support to it).
